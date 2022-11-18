@@ -1,0 +1,107 @@
+{
+    "Utbildning" : [
+      {
+        "DATUM" : " 5 SEPTEMBER 2022",
+        "KURS" : " FRONTENDUTVECKLARE för MOBIL och WEBB",
+        "SKOLA" : " Chas Academy"
+      },
+      {
+        "DATUM" : " MARS 2022-AUGUSTI 2022",
+        "KURS" : " HTML5, CSS3",
+        "SKOLA" : " Turkiet"
+      },
+      {
+        "DATUM" : " 3 JANUARI 2022 ",
+        "KURS" : " PROGRAMMERING 1",
+        "SKOLA" : " Jensen Komvux"
+      },
+      {
+        "DATUM" : " 3 JANUARI 2022",
+        "KURS" : "ENGELSKA 5",
+        "SKOLA" : " Jensen Komvux"
+      },
+     
+      {
+        "DATUM" : " OCKTOBER 2020",
+        "KURS" : " ENGELSKA 4",
+        "SKOLA" : " Huddinge Komvux"
+      },
+      {
+        "DATUM" : " SEPTEMBER 2019",
+        "KURS" : " SAS GRUND, SAS 1",
+        "SKOLA" : " Lernia Komvux"
+      },
+      {
+        "DATUM" : " SEPTEMBER 2009-JUNI 2012",
+        "KURS" : " KLINISK MEDICIN",
+        "SKOLA" : " Xinjiang Medicinska Universitet / Kina "
+      }
+    ],
+
+
+
+
+    "Erfarenhet":[
+      {
+        "jobbnamn" : "KASSABITRÄDE OCH LAGER HANTERING",
+        "jobbdatum" : "Första September 2020 - 10 Oktober 2020:",
+        "jobbplats" : "PRAKTIK SOM KASSABITRÄDE OCH LAGER HANTERING PÅ APOTEK HJÄRTA, HUDDINGE CENTRUM"
+      },
+      {
+        "jobbnamn" : "BUTIKSBITRÄDE OCH INKÖPARE",
+        "jobbdatum" : "Augusti 2017-Augusti 2018:",
+        "jobbplats" : "BUTIKSBITRÄDE OCH INKÖPARE I HB, SVERIGE"
+      },
+      {
+        "jobbnamn" : "RECEPTIONIST",
+        "jobbdatum" : "Januari 2016-Februari 2017: ",
+        "jobbplats" : "RECEPTIONIST PÅ ISTANBUL X HOTELL, ISTANBUL, TURKIET"
+      },
+    
+      {
+        "jobbnamn" : "LÄKARE ASISSTENT",
+        "jobbdatum" : "Augusti 2012-Maj 2043:",
+        "jobbplats" : "LÄKARE ASISSTENT PÅ URUMQI X SJUKHUS, URUMQI, KINA"
+      }
+    ],
+
+
+
+
+
+
+    "Repositorie":[
+     {
+        "projectNmne" : "Uppgifetr 1-cv 1",
+        "Pictury" :"/image/cv1.png",
+        "description" : "I detta projekt kodas en CV-webbplats från grunden med HTML och CSS. Det är en CV-sida som innehåller min information såsom mitt CV och portfolio.",
+        "projectURL" : "https://github.com/MuhammadYildiz/UPPGIFTER1-CV1"
+      },
+      {
+        "projectNmne" : "Uppgifetr 1-cv 2",
+        "Pictury" :"/image/cv2.png",
+        "description" : "I detta projekt kodas en CV-webbplats från grunden med HTML och CSS. Det är en CV-sida som innehåller min information såsom mitt CV och portfolio.",
+        "projectURL" : "https://github.com/MuhammadYildiz/UPPGIFTER1-CV2"
+      },
+      {
+        "projectNmne" : "Workshop 5",
+        "Pictury" :"/image/workshop5.png",
+        "description" : "Detta projekt är en kalkylator. Dela den totala räkningen med antalet personer och räkna ut hur mycket en person måste betala.",
+        "projectURL" : "https://github.com/MuhammadYildiz/Workshop5"
+      },
+      {
+        "projectNmne" : "Workshop 5-Js modal",
+        "Pictury" :"/image/JSmodal.png",
+        "description" : "Detta projekt visar hur ett läge (popup) fungerar i JavaScript, det vill säga genom att klicka på knappen görs modal stängning och öppning.",
+        "projectURL" : "https://github.com/MuhammadYildiz/Workshop5-Javascript-modal"
+      },
+      {
+        "projectNmne" : "Workshp 7-Weather",
+        "Pictury" :"/image/weather.png",
+        "description" : "I detta projekt tas väderdata för en giltig väderplats (stad) från Open API OpenWeatherMap och en uppgift utförs för att visa information som väder, stad max och min grader.",
+        "projectURL" : "https://github.com/MuhammadYildiz/Workshop7-weather"
+      }
+
+    ]
+
+  }
