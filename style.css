@@ -9,7 +9,7 @@
  
 }
 body {
-  height: 80vh;
+  height: 100vh;
 }
 
 
@@ -117,8 +117,9 @@ body {
   font-size: 30px;
 }
 .dark-mode{
-  background-color: rgb(220, 220, 220);
+  background-color: rgb(190, 190, 190);
 }
+
 
 /* PROFILE */
 .profile{
