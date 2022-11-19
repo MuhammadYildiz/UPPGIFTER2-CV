@@ -837,6 +837,7 @@ background-color: #000000;
   padding-top: 9vh;
 }
 .contact-tema a{
+
   text-align: center;
   min-width: 20%;
   margin: auto;
@@ -855,6 +856,7 @@ background-color: #000000;
 }
 
 .contact-join{
+  
   width: 90%;
   margin: auto;
   display: flex;
