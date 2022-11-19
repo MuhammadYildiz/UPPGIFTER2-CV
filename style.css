@@ -137,17 +137,19 @@ body {
     flex-basis: 50%;
     justify-content: flex-end;
     align-items: center;
-   margin: auto;
-    
+   margin: auto;   
 }
 .profile-text h1{
+  padding: 10px;
     font-size: 3rem;
     margin-bottom: 20px;
 }
 .profile-text p{
-    padding: 20px;
+    padding: 10px;
     background-color: #016673;
     color:#f3f6f4;
+    width: 95%;
+    margin: auto;
     border-radius: 10px;
     margin-top: 8vh;
     box-shadow: 2px 3px 9px 2px rgb(150, 148, 148);
