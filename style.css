@@ -212,7 +212,7 @@ body {
 }
 .about-main{
     display: flex;
-    width: 100%;
+    width: 95%;
     margin: auto;
     align-items: center;
     justify-content: space-around; 
@@ -239,11 +239,12 @@ body {
 }
 .abou-info-key,
 .abou-info-obj{
+
    color: #f3f6f4;
     display:flex ;
     justify-content: space-between;
     font-weight: bold;
-    margin: 50px 0px;
+    margin: 50px 5px;
     padding: 10px 16px;
     background-color: #016673;
     width: auto;
