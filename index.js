@@ -6,10 +6,6 @@ let dark = document.querySelector('.main');
 mode.addEventListener('click',changeMode);
 function changeMode(){
     
-    dark.classList.toggle('dark-mode');
-    
+    dark.classList.toggle('dark-mode');    
 }
-
-
-
 
