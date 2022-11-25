@@ -362,6 +362,7 @@ body {
     background-color: #f3f6f4;
   }
   .portfolio-main{
+    justify-content: center;
     display: flex;
   }
   .portfolio-content{
