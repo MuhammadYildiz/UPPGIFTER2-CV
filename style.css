@@ -1012,6 +1012,13 @@ background-color: #000000;
         flex-direction: column;
         
       }
+      .portfolio-main{
+        flex-direction: column;
+      }
+      .portfolio-content{
+        width: 100%;
+        text-align: center;
+      }
       .experience-main{
         flex-direction: column;
       }
